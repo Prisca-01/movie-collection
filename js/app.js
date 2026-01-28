@@ -1,5 +1,4 @@
 const movieGrid = document.getElementById("movieGrid");
-const genreFilter = document.getElementById("genreFilter");
 let movies = []; //To store the fetched movies
 
 
