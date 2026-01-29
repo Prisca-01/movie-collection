@@ -15,19 +15,23 @@ The Movie Collection project is a beginner-friendly frontend application built a
 
 ### Setup Steps
 
+
+```bash
 git clone https://github.com/Prisca-01/movie-collection.git
 cd movie-collection
 git checkout development
+```
 
 
 ### Open the project in VS Code:
 
-code .
+- code .
 
-Run the project using Live Server to ensure the JSON file loads correctly.
+- Run the project using Live Server to ensure the JSON file loads correctly.
 
 ## 🧰 Available CLI Commands Used
 
+```bash
 git init
 git add .
 git commit -m "commit message"
@@ -37,6 +41,7 @@ git fetch origin
 git pull origin development
 git merge development
 git push origin branch-name
+```
 
 
 These commands were used to initialize the project, manage branches, synchronize with the remote repository, and collaborate effectively.
@@ -80,6 +85,7 @@ Filtering logic is handled in JavaScript using array methods
 
 ## 📂 Project Structure
 
+```
 movie-collection/
 │
 ├── assets
@@ -91,7 +97,7 @@ movie-collection/
 │   └── data/
 │       └── movies.json
 ├── index.html
-└── README.md
+└── README.md ...
 
 ## 👥 Team Member Contributions
 
