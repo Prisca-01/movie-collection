@@ -97,7 +97,8 @@ movie-collection/
 │   └── data/
 │       └── movies.json
 ├── index.html
-└── README.md ...
+└── README.md 
+```
 
 ## 👥 Team Member Contributions
 
