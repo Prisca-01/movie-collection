@@ -92,6 +92,7 @@ movie-collection/
 ├── css/
 │   └── style.css
 ├── images/
+    ├── screenshots/
 ├── js/
 │   ├── app.js
 │   └── data/
@@ -110,7 +111,7 @@ movie-collection/
 - Filtering by genre feature
 - Code reviews and pull request management
 
-### Esther (Collaborator)
+### Adejola Esther (Collaborator)
 
 - Git workflow management
 - CSS styling and layout improvements
@@ -129,3 +130,22 @@ movie-collection/
 - Collaborating effectively with a team member
 - Clear communication improves overall team productivity  
 - Understanding that pulling changes locally does not mean merging them
+
+## 🔄 Workflow Challenges & Solutions
+
+### Challenge
+During development, I mistakenly pushed changes directly to the `development` branch instead of pushing my feature branch and creating a pull request. This caused my changes to appear merged locally before they were properly reviewed on GitHub.
+
+### Solution
+I corrected this by switching back to the appropriate feature branch, ensuring all work was pushed from the correct branch, and using GitHub pull requests for review and merging into the `development` branch. I also became more deliberate about checking my current branch before pushing changes.
+
+### Lesson Learned
+This experience reinforced the importance of following the intended Git workflow, especially pushing feature branches instead of shared branches. It also helped me better understand the difference between local merges and GitHub pull request reviews.
+
+## 🖥️ Terminal Operations Evidence
+
+Screenshots of key terminal operations (project setup, branching, commits, and pushes) are available in the `images/screenshots/` directory of this repository.
+
+## 🔀 Pull Request History
+
+All feature development was carried out using pull requests into the `development` branch. The pull request history, including reviews and merges, can be viewed directly on the GitHub repository under the Pull Requests tab.
