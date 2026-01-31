@@ -88,7 +88,6 @@ Filtering logic is handled in JavaScript using array methods
 ```
 movie-collection/
 │
-├── assets
 ├── css/
 │   └── style.css
 ├── images/
