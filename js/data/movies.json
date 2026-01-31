@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Dune: Part One",
+      "releaseYear": 2021,
+      "genre": "Sci-Fi",
+      "description": "A young nobleman journeys to a dangerous desert planet to protect his family and its future.",
+      "poster": "images/movie1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Everything Everywhere All at Once",
+      "releaseYear": 2022,
+      "genre": "Sci-Fi",
+      "description": "An ordinary woman is swept into a multiverse adventure where she must save reality itself.",
+      "poster": "images/movie2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Oppenheimer",
+      "releaseYear": 2023,
+      "genre": "Drama",
+      "description": "The story of the scientist behind the creation of the atomic bomb and its consequences.",
+      "poster": "images/movie3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "releaseYear": 2023,
+      "genre": "Animation",
+      "description": "Miles Morales embarks on a multiverse-spanning adventure with other Spider-People.",
+      "poster": "images/movie2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Aníkúlápó",
+      "releaseYear": 2022,
+      "genre": "Fantasy",
+      "description": "A Yoruba man gains the power to resurrect the dead but soon faces the cost of his gift.",
+      "poster": "images/movie3.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Gangs of Lagos",
+      "releaseYear": 2023,
+      "genre": "Crime",
+      "description": "A group of friends navigate power, loyalty, and survival in the streets of Lagos.",
+      "poster": "images/movie1.jpg"
+    }
+  ]
+  
